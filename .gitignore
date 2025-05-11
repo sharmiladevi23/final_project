@@ -1,0 +1,16 @@
+*.csv
+*.zip
+*.pkl
+*.parquet
+*.db
+__pycache__/
+.ipynb_checkpoints/
+*.log
+outputs/
+logs/
+models/
+*.zip
+*.pkl
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
